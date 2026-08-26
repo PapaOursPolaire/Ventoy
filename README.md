@@ -1,3 +1,6 @@
 # Ventoy
 
-Projet en cours, pas encore about ifaute de temps.
+Projet en cours, pas encore abouti faute de temps.
+
+Début tuto : 
+https://www.ventoy.net/en/download.html
